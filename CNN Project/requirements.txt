@@ -1,4 +1,4 @@
-streamlit
+streamlit==1.31.0
 pandas
 requests
 plotly
@@ -6,4 +6,4 @@ streamlit-lottie
 streamlit-option-menu
 numpy
 opencv-python-headless
-tensorflow
+tensorflow-cpu
