@@ -1,23 +1,9 @@
-# Web Interface & UI
 streamlit
+pandas
+requests
+plotly
 streamlit-lottie
 streamlit-option-menu
-
-# Data Handling & Math
-pandas
 numpy
-
-# Visualization
-plotly
-
-# Networking
-requests
-
-# Deep Learning (Standard CNN Stack)
-# Uncomment the one you are using:
+opencv-python-headless
 tensorflow
-# torch
-# torchvision
-
-# Image Processing
-Pillow
