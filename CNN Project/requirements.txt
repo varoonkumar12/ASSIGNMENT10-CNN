@@ -1,0 +1,23 @@
+# Web Interface & UI
+streamlit
+streamlit-lottie
+streamlit-option-menu
+
+# Data Handling & Math
+pandas
+numpy
+
+# Visualization
+plotly
+
+# Networking
+requests
+
+# Deep Learning (Standard CNN Stack)
+# Uncomment the one you are using:
+tensorflow
+# torch
+# torchvision
+
+# Image Processing
+Pillow
